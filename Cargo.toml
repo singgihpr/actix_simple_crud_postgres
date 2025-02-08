@@ -1,5 +1,5 @@
 [package]
-name = "crud-api"
+name = "actix_simple_crud_postgres"
 version = "0.1.0"
 edition = "2021"
 
